@@ -5,8 +5,12 @@ CAD MODEL: (I got the switches of a website....wasn't sure how to make them myse
 made using fusion. nifty but annoying. 
 
 PCB: Made in KiCad. No silkscreen bcuz i couldn't understand it for the life of me.
+
+
 PCB
 <img width="342" height="601" alt="Screenshot 2026-02-12 at 7 05 23 PM" src="https://github.com/user-attachments/assets/34769dae-c869-4411-b7ea-eb2d331ac494" />
+
+
 Schematic (my fav part!)
 <img width="497" height="244" alt="Screenshot 2026-02-12 at 7 05 51 PM" src="https://github.com/user-attachments/assets/6ea7be3e-4932-45cb-94dc-4123aaf09cf1" />
 
